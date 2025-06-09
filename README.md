@@ -41,5 +41,6 @@ The primary objective of this project is to develop a machine learning model tha
             .  Feature & Target Split - Separate independent (X) and dependent (y) variables for model training.
   5) Feature Scaling - Standardizing ensures all numeric features are on the same scale, improving model performance.
   6) Train-Test Split - Split data for unbiased evaluation of model performance.
-
-  8)
+  7)  Model Training - Random Forest is robust, handles both numerical and categorical variables, and is resistant to overfitting.
+  8)  Model Evaluation - Assess model performance with standard classification metrics.
+  9)  Predicting New User Behavior -  Create a dictionary of feature values, Convert to DataFrame and scale numeric fields, Predict using the model. 
